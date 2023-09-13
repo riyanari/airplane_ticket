@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041799852356",
+    "project_id": "airplane-c8020",
+    "storage_bucket": "airplane-c8020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041799852356:android:1d174c36145051e82fe711",
+        "android_client_info": {
+          "package_name": "com.riyanar.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041799852356-od6cc158im5262au6l0g7hgdmtk7dojt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPms3ZOnFck_kFUgWXMouhSNlN5AUtQt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041799852356-od6cc158im5262au6l0g7hgdmtk7dojt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
